@@ -22,16 +22,16 @@ I'm a passionate **Cloud & DevOps Engineer** with experience in designing, imple
 ![AWS](https://img.shields.io/badge/AWS-Proficient-FF9900?logo=amazonaws&logoColor=white)
 
 ### 🔧 Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-Intermediate-7B42BC?logo=terraform)
+![Terraform](https://img.shields.io/badge/Terraform-Proficient-7B42BC?logo=terraform)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-Intermediate-FF9900)
 
 ### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Proficient-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?logo=kubernetes&logoColor=white)
 ![EKS](https://img.shields.io/badge/EKS%2FECS-Intermediate-FF9900)
 
 ### 🔄 CI/CD & Automation
-![Jenkins](https://img.shields.io/badge/Jenkins-Intermediate-D24939?logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-Proficient-D24939?logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Beginner-2088FF?logo=githubactions&logoColor=white)
 
 ### 💻 Programming & Scripting
