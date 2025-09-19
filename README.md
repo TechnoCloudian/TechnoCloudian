@@ -28,7 +28,7 @@ I'm a passionate **Cloud & DevOps Engineer** with experience in designing, imple
 ### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-Proficient-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?logo=kubernetes&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS%2FECS-Intermediate-FF9900)
+![EKS](https://img.shields.io/badge/EKS%2FECS-Proficient-FF9900)
 
 ### 🔄 CI/CD & Automation
 ![Jenkins](https://img.shields.io/badge/Jenkins-Proficient-D24939?logo=jenkins&logoColor=white)
@@ -43,7 +43,7 @@ I'm a passionate **Cloud & DevOps Engineer** with experience in designing, imple
 ![Networking](https://img.shields.io/badge/Networking-Intermediate-2D2F48?logo=cisco&logoColor=white)
 
 ### 💰 Cost Optimization
-![AWS Cost Management](https://img.shields.io/badge/AWS%20Cost%20Management-Intermediate-FF9900)
+![AWS Cost Management](https://img.shields.io/badge/AWS%20Cost%20Management-Proficient-FF9900)
 
 ## 📊 GitHub Stats
 
